@@ -1,5 +1,5 @@
 h1 {
-  color: black;
+  color: paleturquoise;
 }
 button {
   width: 100px;
@@ -11,8 +11,12 @@ button {
 }
 
 span {
-  color: red;
+  color: greenyellow;
   font-weight: bolder;
+  font-size: 50px;
   
+}
 
+body {
+  background-color: gray;
 }
